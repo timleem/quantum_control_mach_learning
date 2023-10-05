@@ -1,1 +1,7 @@
-
+cff-version: 1.2.0
+authors:
+- family-names: "Lim"
+  given-names: "Timothy"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "Toffoli Decomposition Using Quantum Machine Learning"
+url: "https://github.com/timleem/quantum_control_mach_learning/blob/065f1dcacf62a5d77e3a135833cb9a9cd2c7d35f/toffoli_PPO_optimization.py"
